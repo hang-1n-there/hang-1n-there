@@ -1,10 +1,11 @@
+![1_34WGNvh5yIUkfvjwnGQIyw](https://github.com/hang-1n-there/hang-1n-there/assets/106570569/6517966a-a5f1-4c69-bc47-1350736a5800)
 # About Me:
- I specialize in object detection, real-time video detection,auto pipeline build and predictive modeling.
-My experience in the field of computer vision has been enriched by the following projects:
-I always stay up to date with papers. I am making progress in my field.
-I am proficient in various object detection libraries and tools, including Python, C++, Pytorch, and MMDetection.
-I am open to feedback and collaboration on projects.
-My goal is to provide people with convenience through artificial intelligence.
+💻I specialize in object detection, real-time video detection,auto pipeline build and predictive modeling.
+🔎My experience in the field of computer vision has been enriched by the following projects:
+🔧I always stay up to date with papers. I am making progress in my field.
+🪄I am proficient in various object detection libraries and tools, including Python, C++, Pytorch, and MMDetection.
+❗I am open to feedback and collaboration on projects.
+❤️My goal is to provide people with convenience through artificial intelligence.
 
 
 ## 🌐 Socials:
